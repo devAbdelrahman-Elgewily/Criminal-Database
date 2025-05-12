@@ -37,8 +37,3 @@ The system includes the following core tables:
 | `trial`    | Manages details of court trials, outcomes, and decisions |
 
 All tables are linked using primary and foreign keys to maintain data consistency and support complex queries.
-
----
-
-## 📂 Project Files
-
